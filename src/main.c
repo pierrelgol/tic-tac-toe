@@ -11,6 +11,7 @@
 *   It'a small project but as a self taught a pretty challenging.
 *   at the time i had started learning C in february 2023.
 *   it's not optimised, and probably not very elegant but its working.
+*   The goal for me was to work on using struct and pointers.
 */
 
 #include <stdio.h>
